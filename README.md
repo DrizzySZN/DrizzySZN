@@ -1,7 +1,13 @@
 # 💫 About Me:
 Hey there!
 
-I'm a self-taught Software Developer & Backend Engineer who has a passion and expertise for Backend Web-Development, Web-Automation, Bots, Web-Scraping and Web-Security.
+I'm a self-taught Software Developer & Backend Engineer who has a passion and expertise in:
+
+- Backend Web-Development
+- Web-Automation
+- Bots
+- Web-Scraping
+- Web-Security
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 # 📊 GitHub Stats:

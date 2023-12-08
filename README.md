@@ -3,7 +3,7 @@ Hey there!
 
 I'm a self-taught Software Developer & Backend Engineer who has a passion and expertise in:
 
-- Backend Web-Development
+- Backend Web & Application Development
 - Web-Automation
 - Bots
 - Web-Scraping

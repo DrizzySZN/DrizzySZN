@@ -1,13 +1,14 @@
 # 💫 About Me
 Hey there!
 
-I'm a self-taught Software Developer & Backend Engineer who has a passion and expertise in:
+I'm a self-taught Software Developer, Web3 Developer & Backend Engineer who has a passion and expertise in:
 
 - Backend Web & Application Development
 - Web-Automation
 - Bots
 - Web-Scraping
 - Web-Security
+- Web3 Automation
 
 Thanks for reading!
 
